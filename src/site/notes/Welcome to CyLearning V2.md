@@ -4,4 +4,4 @@
 
 Welcome to CyLearning V2! The new and improved version from the original.
 
-So far we have nothing yet, but stay tuned for more!
+The notes are located at our [[Catalogue\|Catalogue]].
