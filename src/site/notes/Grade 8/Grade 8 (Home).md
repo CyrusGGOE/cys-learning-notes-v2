@@ -5,4 +5,5 @@
 Welcome to the Grade 8 Notes page!
 
 # Subjects:
-[[Grade 8/Creative Arts and Sports/C - Arts and Sports (Home)\|Creative Arts and Sports]] - All the C/Arts and sports notes.
+
+[[Grade 8/Creative Arts and Sports/Creative Arts and Sports (Home)\|Creative arts and Sports]] - All the C/Arts and sports notes.
